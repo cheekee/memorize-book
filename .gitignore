@@ -1,0 +1,11 @@
+/.pmd
+/target/
+/devspace/
+/.classpath
+/.project
+/.settings/
+/bin/
+/src/main/webapp/WEB-INF/lib/log4sql-7.0.8.jar
+.idea
+fdms.iml
+/src/main/webapp/META-INF/context.xml
